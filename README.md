@@ -1,6 +1,6 @@
 ```
-#include <print>
+import std;
 int main() {
-    std::println("Hello, World!");
+    std::print("Hello World");
 }
 ```
